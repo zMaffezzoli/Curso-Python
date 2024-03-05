@@ -1,0 +1,9 @@
+os.mknod() - Cria um arquivo no diretório desejado
+os.mkdir() - Cria um diretório no diretório desejado (Absoluto ou relativo)
+os.makedirs("caminho", exists_ok=True) - Cria múltiplos diretórios no diretório desejado (Absoluto ou relativo)
+                                       - exists_ok=True evita erro caso o diretório já exista
+
+os.rename() - Renomeia diretórios ou arquivos
+os.remove() - Exclui o arquivo (Não vai para a lixeira)
+os.rmdir() - Exclui um diretório vazio. Caso tenha conteúdo, resulta erro
+os.scandir() - Lista um diretorio

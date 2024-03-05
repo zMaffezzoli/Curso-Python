@@ -1,0 +1,5 @@
+dentista 3 anos 
+programador 1 anos 
+mecânico 10 anos 
+professor 5 anos 
+nutricionista 6 anos 

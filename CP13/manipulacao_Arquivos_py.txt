@@ -1,0 +1,5 @@
+r - Abre somente para leitura (read)
+w - Abre para escrita (sobrepondo se já havia conteúdo) (write)
+x - Abre para escrita, somente se o arquivo não existir (FileExistsError)
+a - Abre para escrita, adicionando mesmo se já existe conteúdo no arquivo (append) (Adiciona somente no final do arquivo)
++ - Abre para atualização, modo escrita e leitura (Podendo mover o cursor, menos no a)
